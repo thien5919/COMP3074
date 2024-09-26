@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyButton" parent="Widget.AppCompat.ActionBar">
+        <item name="android:backgroundTint">@color/blue</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+    <style name="MyButton.Large">
+        <item name="android:textSize">20sp</item>
+    </style>
+</resources>
