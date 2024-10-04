@@ -1,7 +1,19 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.Lab3" parent="Theme.Material3.DayNight.NoActionBar">
+    <style name="Base.Theme.Lab4" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your dark theme here. -->
         <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+    <style name="Theme.Lab4" parent="Base.Theme.Lab4" >
+        <item name="materialButtonStyle">@style/MyButton</item>
+        <item name="colorPrimary">@color/blue</item>
+    </style>
+
+    <style name="Theme.Lab4.Large" parent="Theme.Lab4">
+        <item name="materialButtonStyle">@style/MyButton.Large</item>
+    </style>
+    <style name="MyDialog" parent="Theme.Material3.DayNight.Dialog">
+        <item name="colorPrimary">#555555 </item>
+        <item name="android:backgroundTint">#ffffff</item>
     </style>
 </resources>

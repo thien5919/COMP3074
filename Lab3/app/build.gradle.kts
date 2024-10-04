@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "ca.gbc.comp3074.lab3"
+    namespace = "ca.gbc.comp3074.lab4"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "ca.gbc.comp3074.lab3"
+        applicationId = "ca.gbc.comp3074.lab4"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

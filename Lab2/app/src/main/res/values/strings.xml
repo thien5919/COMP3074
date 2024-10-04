@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="btn_activity">Open Activity</string>
+    <string name="btn_map">Open Map</string>
+    <string name="btn_browser">Open Browser</string>
+    <string name="btn_alarm">Set Alarm</string>
+    <string name="btn_image">Capture Image</string>
+</resources>

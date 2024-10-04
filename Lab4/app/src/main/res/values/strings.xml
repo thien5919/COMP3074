@@ -1,8 +1,0 @@
-<resources>
-    <string name="app_name">Lab4</string>
-    <array name="colors">
-        <item>Red</item>
-        <item>Blue</item>
-        <item>Green</item>
-    </array>
-</resources>
